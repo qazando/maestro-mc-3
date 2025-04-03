@@ -1,4 +1,4 @@
-name: Build
+name: Execução dos testes automatizados
 
 on:
   push:
